@@ -112,22 +112,6 @@ Depiction: https://repo.lillieweeb001.xyz/depictions/enhancerforyoutubepremium.h
 Name: Enhancer for YouTube Premium
 Sileodepiction: https://repo.lillieweeb001.xyz/sileodepictions/weeb.lillie.enhancerforyoutubepremium/depiction.json
 
-Package: weeb.lillie.ffmpegkitfull
-Version: 4.5.1-lts
-Architecture: iphoneos-arm
-Maintainer: Lillie
-Filename: debs/ffmpegkitfull.deb
-Size: 118230096
-MD5sum: 5f7e7ae29ee86769230deda94b4f2014
-SHA1: 664971879dcdd7833c8669decc4a8eb8565a758c
-SHA256: 6532b340eb45ddb3b97f4d55bb857f0c870a94a791e579d5f17986956a891e58
-Section: Multimedia
-Description: FFmpegKit Full Framework
-Author: Lillie
-Depiction: https://repo.lillieweeb001.xyz/depictions/ffmpegkitfull.html
-Name: FFmpegKit (Full)
-Sileodepiction: https://repo.lillieweeb001.xyz/sileodepictions/weeb.lillie.ffmpegkitfull/depiction.json
-
 Package: weeb.lillie.gympassjbbypass
 Version: 1.0.0
 Architecture: iphoneos-arm
@@ -145,20 +129,4 @@ Author: Lillie
 Depiction: https://repo.lillieweeb001.xyz/depictions/gympassjbbypass.html
 Name: Gympass JB Bypass
 Sileodepiction: https://repo.lillieweeb001.xyz/sileodepictions/weeb.lillie.gympassjbbypass/depiction.json
-
-Package: weeb.lillie.mobilevlckit
-Version: 3.4.0
-Architecture: iphoneos-arm
-Maintainer: Lillie
-Filename: debs/mobilevlckit.deb
-Size: 45295596
-MD5sum: 22c411584ee0227495ca4ee0be06d8f4
-SHA1: e80414d30acc50893ba8023503ab56853cebedd2
-SHA256: 10f6dce43c8bed7c6fe44c8b508c0203b98cb3d6417b7220e096aef6a6e0ae5f
-Section: Multimedia
-Description: MobileVLCKit Full Framework
-Author: Lillie
-Depiction: https://repo.lillieweeb001.xyz/depictions/mobilevlckit.html
-Name: MobileVLCKit
-Sileodepiction: https://repo.lillieweeb001.xyz/sileodepictions/weeb.lillie.mobilevlckit/depiction.json
 
