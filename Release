@@ -1,0 +1,18 @@
+Origin: Lillie's Repo
+Label: Lillie's Repo
+Suite: stable
+Version: 1.0
+Codename: lillierepo
+Architectures: iphoneos-arm
+Components: main
+Description: Lillie's Repo
+MD5Sum:
+ 320f23b16ae7b0566dfd8f63934f0de8 7127 Packages
+ 8a2371e398e3da56fffd9e2b6da1bdcc 2449 Packages.bz2
+ 218fb659975ee9743b3236a79d3fbb12 2303 Packages.gz
+ 5b5b189c2fd699e80b36868ce52faa0c 2247 Packages.zst
+SHA256:
+ 6240520d0c33004607d94724ab05d3c8cbdde8e6ef88cef029cb9fe860784664 7127 Packages
+ 77e4b09b12e3400c2c4cf16292402ca155bfd3a0ca3188a8bce713fe2893ae9f 2449 Packages.bz2
+ 1dad28891ca813cc1ec3f19b358036fc6c1ac4d7dc7d674683bae8573611b47e 2303 Packages.gz
+ 8221ded7786d0531896d68f2ab59d4adbcfe15b4d4ea29304fe3b680a3729842 2247 Packages.zst

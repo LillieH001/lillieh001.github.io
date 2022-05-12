@@ -1,0 +1,164 @@
+Package: h.ryan.youtubereborn
+Version: 3.0.3
+Architecture: iphoneos-arm
+Maintainer: Lillie
+Installed-Size: 25176
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 13.0)
+Conflicts: net.sarahh12099.youtubereborn, com.twickd.sarahh12099.youtube-reborn, com.yourepo.jpet26.youtubetools1, com.justinpetkovic.youtubetools, com.johnzaro.perfectyoutube, com.ichitaso.youtubepatcher, com.yourepo.ikghd.youtubekiller, com.yourepo.ikghd.youtubekillers, com.sinfool.youtopia, com.google.ios.ytadblock, prasa.youtubeplus, com.unlimapps.ytpp, com.twickd.laki.raspberry, com.laki.raspberry, com.twickd.lazar.raspberry, 0xcc.woodfairy.noytads, weeb.lillie.enhancerforyoutubepremium, weeb.lillie.youtubepremiumplus, com.miro.uyou, com.ps.uyoucompat, com.ps.ytsystemappearance, com.galacticdev.isponsorblock, com.yourepo.mohadu31.dzyoutube, com.lyvendia.ytspeed, com.miro.uyouimport, com.ichitaso.uyouplus
+Replaces: net.sarahh12099.youtubereborn, com.twickd.sarahh12099.youtube-reborn
+Provides: net.sarahh12099.youtubereborn, com.twickd.sarahh12099.youtube-reborn
+Filename: debs/h.ryan.youtubereborn_3.0.3_iphoneos-arm.deb
+Size: 9109594
+MD5sum: f2ccb53b5802ceb1f0393506eec1d349
+SHA1: 1dfe3d91278c6ae698e10711793cc1da41a3dead
+SHA256: efcb7c1e2ddf3615271e4ed7056a918f1ab81b666e51e007ea59a96db712e452
+Section: Tweaks
+Description: YouTube Customizer
+Author: Lillie
+Name: YouTube Reborn
+
+Package: py.youtubedl
+Version: 2021.12.17
+Architecture: iphoneos-arm
+Maintainer: Lillie
+Depends: python3
+Conflicts: youtube-dl
+Replaces: youtube-dl
+Provides: youtube-dl
+Filename: debs/youtubedl.deb
+Size: 1725298
+MD5sum: 3bbddc59ec87ea70c011dc1916427708
+SHA1: 6c06e989cf5c5efbb35df8cf14fe222b50e92778
+SHA256: 99c4137ecda53276a78a6f721392fe830b7c391dd4461cdea7263d949a7d3e9f
+Section: Multimedia
+Description: youtube-dl for iOS
+Author: Lillie
+Depiction: https://repo.lillieweeb001.xyz/depictions/youtubedl.html
+Name: youtube-dl
+Sileodepiction: https://repo.lillieweeb001.xyz/sileodepictions/py.youtubedl/depiction.json
+
+Package: py.ytdlp
+Version: 2022.03.08.1
+Architecture: iphoneos-arm
+Maintainer: Lillie
+Depends: python3
+Filename: debs/ytdlp.deb
+Size: 2290328
+MD5sum: 7f429d011e7d5c64ebeb5a1828661903
+SHA1: 7192f407a6fcfa74a9f8a224b0aca8c6fb7bc927
+SHA256: 078626ac4deacb21cfafae8b60f1bdd85445e38060167da485450c997a453a07
+Section: Multimedia
+Description: yt-dlp for iOS
+Author: Lillie
+Depiction: https://repo.lillieweeb001.xyz/depictions/ytdlp.html
+Name: yt-dlp
+Sileodepiction: https://repo.lillieweeb001.xyz/sileodepictions/py.ytdlp/depiction.json
+
+Package: weeb.lillie.accentcustom
+Version: 2.0.5
+Architecture: iphoneos-arm
+Maintainer: Lillie
+Installed-Size: 408
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 13.0), preferenceloader, com.spark.libsparkcolourpicker, com.spark.libsparkapplist
+Conflicts: com.ivanc.accent
+Filename: debs/weeb.lillie.accentcustom_2.0.5_iphoneos-arm.deb
+Size: 20122
+MD5sum: 251c1890059fab9df24b6f5f233b9f26
+SHA1: 568ae241fbabeb6e1182879434bff9ad932d5b21
+SHA256: 0e2ee613a700a3c75cb47669b890e5ee7bac12311dd2608cc7afc3d492fcd8a8
+Section: Tweaks
+Description: iOS Accent Colours In macOS Style
+Author: Lillie
+Depiction: https://repo.lillieweeb001.xyz/depictions/accentcustom.html
+Name: Accent Custom
+Sileodepiction: https://repo.lillieweeb001.xyz/sileodepictions/weeb.lillie.accentcustom/depiction.json
+
+Package: weeb.lillie.androidls
+Version: 1.0.7
+Architecture: iphoneos-arm
+Maintainer: Lillie
+Installed-Size: 384
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 13.0), com.spark.libsparkcolourpicker, preferenceloader, cy+model.iphone | cy+model.ipod
+Conflicts: moe.absolucy.lucient, moe.absolucy.lucient.trial, org.coolstar.ventana-modern, xyz.royalapps.jellyfish, hi.my.name.is.ubik.kalm, love.litten.diary, com.laughingquoll.watermelon, com.laughingquoll.watermelon.beta, com.rpgfarm.groupingaxon, com.peterdev.grupi
+Filename: debs/weeb.lillie.androidls_1.0.7_iphoneos-arm.deb
+Size: 18142
+MD5sum: 69bacd009221852b0d1df06308314e45
+SHA1: a1f566a253730fd431bbf88e5daed936b7dac6cf
+SHA256: 9574355577860eb20c8c46a91e5f302306f5f35e532e096d7244190726bd2604
+Section: Tweaks
+Description: Android Lockscreen on iOS
+Author: Lillie
+Depiction: https://repo.lillieweeb001.xyz/depictions/androidls.html
+Name: Android LS
+Sileodepiction: https://repo.lillieweeb001.xyz/sileodepictions/weeb.lillie.androidls/depiction.json
+
+Package: weeb.lillie.enhancerforyoutubepremium
+Version: 1.0.6
+Architecture: iphoneos-arm
+Maintainer: Lillie
+Installed-Size: 232
+Depends: mobilesubstrate, firmware (>= 13.0)
+Conflicts: net.sarahh12099.youtubereborn, h.ryan.youtubreborn, com.yourepo.ikghd.youtubekiller, com.yourepo.ikghd.youtubekillers, prasa.youtubeplus, weeb.lillie.youtubepremiumplus
+Replaces: weeb.lillie.youtubepremiumplus
+Filename: debs/weeb.lillie.enhancerforyoutubepremium_1.0.6_iphoneos-arm.deb
+Size: 43698
+MD5sum: 6ee7f226958a85ef26611e6eba7761e3
+SHA1: bb89c13793115a1edae368eab9aa6be1cc1da060
+SHA256: ee72182689b67354d78755ea573ad0e1a7d2b3d9d055f3bd7316d7c792aa9ad4
+Section: Tweaks
+Description: Add More Features To YouTube Premium
+Author: Lillie
+Depiction: https://repo.lillieweeb001.xyz/depictions/enhancerforyoutubepremium.html
+Name: Enhancer for YouTube Premium
+Sileodepiction: https://repo.lillieweeb001.xyz/sileodepictions/weeb.lillie.enhancerforyoutubepremium/depiction.json
+
+Package: weeb.lillie.ffmpegkitfull
+Version: 4.5.1-lts
+Architecture: iphoneos-arm
+Maintainer: Lillie
+Filename: debs/ffmpegkitfull.deb
+Size: 118230096
+MD5sum: 5f7e7ae29ee86769230deda94b4f2014
+SHA1: 664971879dcdd7833c8669decc4a8eb8565a758c
+SHA256: 6532b340eb45ddb3b97f4d55bb857f0c870a94a791e579d5f17986956a891e58
+Section: Multimedia
+Description: FFmpegKit Full Framework
+Author: Lillie
+Depiction: https://repo.lillieweeb001.xyz/depictions/ffmpegkitfull.html
+Name: FFmpegKit (Full)
+Sileodepiction: https://repo.lillieweeb001.xyz/sileodepictions/weeb.lillie.ffmpegkitfull/depiction.json
+
+Package: weeb.lillie.gympassjbbypass
+Version: 1.0.0
+Architecture: iphoneos-arm
+Maintainer: Lillie
+Installed-Size: 184
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 13.0)
+Filename: debs/weeb.lillie.gympassjbbypass_1.0.0_iphoneos-arm.deb
+Size: 3182
+MD5sum: ad3d32b3edd4f9d7ad9e7cd1a40782ca
+SHA1: 33755a09533184a3f4ea9f0eefa3b2a4ee162e3e
+SHA256: b08b72abc64d1c629c7fa22ab8b042158ab81932b26b12d99995043359df2bc2
+Section: Tweaks
+Description: Bypass JB Detection In Gympass
+Author: Lillie
+Depiction: https://repo.lillieweeb001.xyz/depictions/gympassjbbypass.html
+Name: Gympass JB Bypass
+Sileodepiction: https://repo.lillieweeb001.xyz/sileodepictions/weeb.lillie.gympassjbbypass/depiction.json
+
+Package: weeb.lillie.mobilevlckit
+Version: 3.4.0
+Architecture: iphoneos-arm
+Maintainer: Lillie
+Filename: debs/mobilevlckit.deb
+Size: 45295596
+MD5sum: 22c411584ee0227495ca4ee0be06d8f4
+SHA1: e80414d30acc50893ba8023503ab56853cebedd2
+SHA256: 10f6dce43c8bed7c6fe44c8b508c0203b98cb3d6417b7220e096aef6a6e0ae5f
+Section: Multimedia
+Description: MobileVLCKit Full Framework
+Author: Lillie
+Depiction: https://repo.lillieweeb001.xyz/depictions/mobilevlckit.html
+Name: MobileVLCKit
+Sileodepiction: https://repo.lillieweeb001.xyz/sileodepictions/weeb.lillie.mobilevlckit/depiction.json
+
