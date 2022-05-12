@@ -1,0 +1,26 @@
+a {
+    text-decoration: none;
+    color: #0d6efd;
+}
+a:hover {
+    text-decoration: none;
+    color: #0d6efd;
+}
+.btn {
+    color: #0d6efd;
+}
+.btn:hover {
+    color: #0d6efd;
+}
+h1 {
+    color: white;
+}
+h2 {
+    color: white;
+}
+p {
+    color: white;
+}
+#background {
+    background: #333;
+}
