@@ -1,5 +1,5 @@
 Package: h.ryan.youtubereborn
-Version: 3.1.5
+Version: 3.1.6
 Architecture: iphoneos-arm
 Maintainer: Lillie
 Installed-Size: 25280
@@ -7,11 +7,11 @@ Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 12.0)
 Conflicts: net.sarahh12099.youtubereborn, com.twickd.sarahh12099.youtube-reborn, com.yourepo.jpet26.youtubetools1, com.justinpetkovic.youtubetools, com.johnzaro.perfectyoutube, com.ichitaso.youtubepatcher, com.yourepo.ikghd.youtubekiller, com.yourepo.ikghd.youtubekillers, com.sinfool.youtopia, com.google.ios.ytadblock, prasa.youtubeplus, com.unlimapps.ytpp, com.twickd.laki.raspberry, com.laki.raspberry, com.twickd.lazar.raspberry, 0xcc.woodfairy.noytads, weeb.lillie.enhancerforyoutubepremium, weeb.lillie.youtubepremiumplus, com.miro.uyou, com.ps.uyoucompat, com.ps.ytsystemappearance, com.galacticdev.isponsorblock, com.yourepo.mohadu31.dzyoutube, com.lyvendia.ytspeed, com.miro.uyouimport, com.ichitaso.uyouplus, com.stem.deficient
 Replaces: net.sarahh12099.youtubereborn, com.twickd.sarahh12099.youtube-reborn, weeb.lillie.enhancerforyoutubepremium
 Provides: net.sarahh12099.youtubereborn, com.twickd.sarahh12099.youtube-reborn, weeb.lillie.enhancerforyoutubepremium
-Filename: debs/h.ryan.youtubereborn_3.1.5_iphoneos-arm.deb
-Size: 9146678
-MD5sum: 254374f7351ab2d95cd063a433dff114
-SHA1: 36f9d7e347c3b6cf110290c29ed394a518b72706
-SHA256: a9254b960aa51bcf780d9878e0e54c8bfb10844102229e9834a56d54a4188cb1
+Filename: debs/h.ryan.youtubereborn_3.1.6_iphoneos-arm.deb
+Size: 9145574
+MD5sum: c91abfbdfe9fcbf25366adf84e14c95e
+SHA1: 01bb7692496449479a407115d32401feb95f1106
+SHA256: 2fcd176abbf3eebd096af90c637e5f61bc69dc99be60161de0a1ad4d92edc2fe
 Section: Tweaks
 Description: YouTube Customizer
 Author: Lillie
