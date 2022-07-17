@@ -1,0 +1,22 @@
+@media (prefers-color-scheme: light) {
+    body {
+        background: white;
+    }
+    p {
+        color: black;
+    }
+    hr {
+        color: black;
+    }
+}
+@media (prefers-color-scheme: dark) {
+    body {
+        background: #333;
+    }
+    p {
+        color: white;
+    }
+    hr {
+        color: white;
+    }
+}
